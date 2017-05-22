@@ -1,0 +1,27 @@
+OHSU BD2K Needs Assessment Survey,OHSU BD2K Needs Assessment Survey,OHSU BD2K Needs Assessment Survey,OHSU BD2K Needs Assessment Survey,OHSU BD2K Needs Assessment Survey
+,,,,
+Answer Options,Definitely interested,Possibly interested,Not interested,Response Count
+NIH guidelines on data management,3,10,7,20
+"Computing environments: distributed, parallel",3,6,9,18
+Data munging,3,8,7,18
+Organizing and curating data (ontologies),4,8,5,17
+Programming/software engineering,4,3,11,18
+Data structures,4,6,8,18
+Data dimension reduction,4,6,8,18
+"Clinical considerations (privacy, regulatory issues)",4,8,7,19
+Data workflows,5,6,7,18
+Algorithms,5,8,5,18
+Data optimization,5,6,7,18
+Data multiple testing,5,8,5,18
+Machine learning,5,4,8,17
+"Reuse of data  (standards, metadata)",6,7,5,18
+"Probability, stochastic modeling",7,4,7,18
+Reproducible research tools,7,7,4,18
+Ethics,7,9,3,19
+"Locating and accessing data/tools (identifiers, search)",8,6,5,19
+Bayesian methods,8,5,4,17
+Team science,8,5,5,18
+Experimental design,10,7,2,19
+Data visualizaton/communication,12,5,1,18
+,,,,
+,,,,
